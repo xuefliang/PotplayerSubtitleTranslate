@@ -1,2 +1,2 @@
 # PotplayerSubtitleTranslate
-A subtitile translate extension for Potplayer
+这是一个Potplayer字幕插件，通过调用LLM将字幕进行实时翻译。需要在ollama.as中修改api_key,selected_model和api_url这三个配置。插件位置需放置在 Potplayer\Extension\Subtitle\Translate下。
