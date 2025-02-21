@@ -49,7 +49,7 @@ api_url = "https://api.example.com"
 1. 将插件文件复制到 `Potplayer\Extension\Subtitle\Translate` 目录下
 2. 在 `llm.as` 中修改以下配置：
    - `api_key`：您的API密钥
-   - `selected_model`：选择的LLM模型
+   - `selected_model`：选择的LLM模型，例如deepseek-reasoner
    - `api_url`：API接口地址
 
 ### 配置示例
